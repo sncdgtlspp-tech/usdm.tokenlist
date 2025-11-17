@@ -2,11 +2,11 @@
   "name": "USDM Token List",
   "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
   "keywords": ["USDM", "stablecoin"],
-  "timestamp": "2025-01-01T00:00:00+00:00",
+  "timestamp": "2024-01-01T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 728126428,
-      "address": "TBQPqKMmW29iB95XKxE3dChZJD35i1H",
+      "address": "TBQPqKMmW2i9B95XKxE3dChZJD35i1H",
       "name": "USDM",
       "symbol": "USDM",
       "decimals": 6
